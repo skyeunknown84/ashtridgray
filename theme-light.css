@@ -1,0 +1,27 @@
+:root {
+    --white: white;
+    --black: black;
+    --gray:  gray;
+    --blue: rgb(5, 121, 255);
+    --mint: lightseagreen;
+    --mainColor: #ffffff;
+    --primaryColor: #222;
+    --secondaryColor:#eaeaea;
+    
+    --borderColor:#c1c1c1;
+    --themeDotBorder: #24292e;
+
+    --mainText:black;
+    --secondaryText: #4b5156;
+    --thirdText: #000000;
+
+    --previewBg: rgba(248, 248, 248, 0.8);
+    --preview2Bg: rgb(2,180,156);
+    --previewShadow: #313131;
+    
+    --themeLight: #ffffff;
+    --themeMint: #79DAD3;
+    --themeLemon: #EEE635;
+    --themeDark: #313131;
+    --buttonColor: black;
+}
